@@ -10,4 +10,4 @@ Example:
 
 Use Latin alphabet for test only.
 
-You should write a function which returns reverse text
+You should write a function which returns reverse text.
